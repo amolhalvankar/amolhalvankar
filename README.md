@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amolhalvankar&label=Profile%20views&color=0e75b6&style=flat" alt="amolhalvankar" /> </p>
 
-- 🌱 I’m currently learning **Java Spring-Boot MVC, ASP.Net core MVC**
+- 🌱 I’m currently learning **Core Java, SQL, Java Frameworks, ASP.NET**
 
 - 📫 How to reach me **amolhalvankar18@gmail.com**
 
